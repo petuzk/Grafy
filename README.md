@@ -1,11 +1,11 @@
-# PAMSI-2
+# Grafy
 
 To repozytorium zawiera przykładowe implementacje grafów, algorytmów znalezienia ścieżki najkrótszej oraz program pomocniczy (driver) do ich weryfikacji i przeprowadzenia testów efektywności.
 
-## Grafy
-- w postaci macierzy sąsiedztwa
-- w postaci listy sąsiedztwa
+## Postaci grafów
+- Macierz sąsiedztwa
+- Lista sąsiedztwa
 
-## Algorytmy
+## Implementowane algorytmy
 - Dijkstry
 - Bellmana-Forda
